@@ -1,0 +1,54 @@
+.hi{
+  width:100%;
+  height: 100%;
+  z-index: -1;
+  position: absolute;
+  left:0;
+}
+body{
+  background-color: #fff;
+}
+.heading{
+  color:#dd2c00;
+}
+#clue{
+  color:red;
+  font-size: 4rem;
+}
+#classteach{
+  width: 40%;
+  position: absolute;
+}
+.container-fluid{
+  position: absolute;
+  top: 30%;
+  text-align: center;
+}
+.together{
+  padding-bottom: 0;
+}
+.bye{
+  width:15rem;
+  text-align: center;
+}
+.hello{
+  margin:2% 0;
+  position: relative;
+  right:1%;
+}
+a:hover{
+  text-decoration: none;
+}
+.white{
+  color:#fff;
+}
+.black{
+  color:#000;
+}
+.butmess{
+  font-size: 5rem;
+}
+#moveright{
+  position: absolute;
+  right: 0;
+}
